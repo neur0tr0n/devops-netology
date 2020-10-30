@@ -10,3 +10,5 @@
 5. .terraformrc и terraform.rc
 6. New line at 2020-10-30 18:18
 7. Another new line at 2020-10-30 18:39
+8. One more line at 2020-10-30 18:57
+
