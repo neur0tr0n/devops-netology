@@ -8,3 +8,4 @@
 3. с расширением *.tfvars
 4. override.tf и override.tf.json, а также файлы оканчивающиеся на *_override.tf и *_override.tf.json
 5. .terraformrc и terraform.rc
+new line at 2020-10-30 18:18
